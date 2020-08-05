@@ -1,0 +1,54 @@
+body{
+	margin:0;
+font-family: manjari;
+font-size: 15px;
+line-height:20px;}
+
+
+	header{
+		background: #f3c8c8;
+		text-align: center;
+	padding-top: 20px;
+	padding-bottom: 20px;}
+
+	h1,h2{font-family: 'Chilanka', cursive;}
+
+	header h1{color: #492e17;
+		font-family: 'Chilanka', cursive;
+		font-size: 50px;}
+	
+
+header img{
+	border-radius: 360px;}
+
+	main{max-width: 600px;
+		text-align: center;
+		margin:0 auto;
+		padding: 20px 20px 20px;}
+
+	main img {
+			max-width: 100%;
+			}
+
+	h2{color: #454545;
+		font-family: 'Chilanka', cursive;
+		font-size: 30px;
+		text-decoration: underline;}
+
+
+	a{
+		color: #6b5e4b
+	}
+	a:hover{
+		color:#b3a89b;
+	}
+
+	footer{
+		background: #f3c8c8;
+		padding-top: 5px;
+		padding-bottom: 5px;
+		color:#492e17;
+		text-align: center;
+	}
+
+
