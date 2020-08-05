@@ -2,7 +2,9 @@ body{
 	margin:0;
 font-family: manjari;
 font-size: 15px;
-line-height:20px;}
+line-height:20px;
+ background-image: url("https://media.istockphoto.com/vectors/decorative-party-sprinkles-seamless-repeat-vector-vector-id1097751954");
+  background-repeat: repeat; }
 
 
 	header{
@@ -50,5 +52,9 @@ header img{
 		color:#492e17;
 		text-align: center;
 	}
+	ul{list-style: none;}
+	ol{list-style: none}
+
+	
 
 
